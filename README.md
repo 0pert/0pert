@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @0pert
-- Im a student at BTH in Sweden - Web development and programming
+  ## Bytes Of IT
+- https://bytesofit.se
   
 - Python
 - JavaScript
 
-- Using this for labs and testing out what I'm learning
 
 <!---
 0pert/0pert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
