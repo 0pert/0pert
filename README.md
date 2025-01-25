@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @0pert
+
   ## Bytes Of IT
-- https://bytesofit.se
-  
+  Website: https://bytesofit.se <br>
+  Mail: oliver@bytesofit.se
+
 - Python
 - JavaScript
+- HTML
+- CSS
 
 
 <!---
