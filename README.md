@@ -1,7 +1,5 @@
 
-  ## Bytes Of IT
-  Website: https://bytesofit.se <br>
-  Mail: oliver@bytesofit.se
+  ## BOIT
 
 - Python
 - JavaScript
